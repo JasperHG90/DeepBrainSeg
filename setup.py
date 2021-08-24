@@ -33,7 +33,7 @@ setuptools.setup(
          'SimpleITK==1.2.4',
          'tqdm==4.48.2',
          'numpy==1.18.5',
-         'pandas==0.25.3',
+         'pandas==1.2.4',
          'scipy==1.4.1',
          'pydensecrf==1.0rc2',
          'pyradiomics==3.0',
